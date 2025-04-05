@@ -1,0 +1,3 @@
+[submodule "cpp/uws/uWebSockets"]
+	path = cpp/uws/uWebSockets
+	url = git@github.com:uNetworking/uWebSockets.git
