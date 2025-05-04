@@ -11,11 +11,11 @@ git submodule update --init --recursive
 > [!NOTE]
 > *All listed frameworks are currently running in **single-threaded** mode.*
 
-| Language   | Framework(s)                                                    |
-| ---------- | --------------------------------------------------------------- |
-| C++        | [uWebSockets](https://github.com/uNetworking/uWebSockets)       |
-| Go         | [net/http](https://pkg.go.dev/net/http)                         |
-| JavaScript | [uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) |
-| Zig        | [zuws](https://github.com/harmony-co/zuws)                      |
-| Rust       | [std::net](https://doc.rust-lang.org/std/net/index.html)        |
-| Rust       | [actix](https://actix.rs/)                                      |
+| Framework                                                       | Language   |
+| --------------------------------------------------------------- | ---------- |
+| [uWebSockets](https://github.com/uNetworking/uWebSockets)       | C++        |
+| [net/http](https://pkg.go.dev/net/http)                         | Go         |
+| [uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) | JavaScript |
+| [zuws](https://github.com/harmony-co/zuws)                      | Zig        |
+| [std::net](https://doc.rust-lang.org/std/net/index.html)        | Rust       |
+| [actix](https://actix.rs/)                                      | Rust       |
