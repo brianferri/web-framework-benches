@@ -11,7 +11,7 @@ git submodule update --init --recursive
 > [!NOTE]
 > *All listed frameworks are currently running in **single-threaded** mode.*
 
-| Framework                                                       | Language   |
+| Framework/Library                                               | Language   |
 | --------------------------------------------------------------- | ---------- |
 | [uWebSockets](https://github.com/uNetworking/uWebSockets)       | C++        |
 | [net/http](https://pkg.go.dev/net/http)                         | Go         |
