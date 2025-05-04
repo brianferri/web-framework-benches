@@ -17,5 +17,6 @@ git submodule update --init --recursive
 | [net/http](https://pkg.go.dev/net/http)                         | Go         |
 | [uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) | JavaScript |
 | [zuws](https://github.com/harmony-co/zuws)                      | Zig        |
+| [zap](https://zigzap.org/)                                      | Zig        |
 | [std::net](https://doc.rust-lang.org/std/net/index.html)        | Rust       |
 | [actix](https://actix.rs/)                                      | Rust       |
