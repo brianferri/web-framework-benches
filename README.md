@@ -1,7 +1,7 @@
 # Sample web server files
 
 > [!IMPORTANT]
-> This is not a bench*mark* repo, it's a *bench* repo. I wont' be using it to mark performances.
+> This is not a bench*mark* repo, it's a *bench* repo. I won't be using it to mark performances.
 
 To get started:
 
