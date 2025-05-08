@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "futen": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.17",
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}

@@ -20,6 +20,8 @@ git submodule update --init --recursive
 | [net/http](https://pkg.go.dev/net/http)                         | Go         |
 | [gin](https://gin-gonic.com/)                                   | Go         |
 | [uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) | JavaScript |
+| [ElysiaJS](https://elysiajs.com/)                               | JavaScript |
+| [Futen](https://github.com/DotEnv-it/futen)                     | JavaScript |
 | [zuws](https://github.com/harmony-co/zuws)                      | Zig        |
 | [zap](https://zigzap.org/)                                      | Zig        |
 | [std::net](https://doc.rust-lang.org/std/net/index.html)        | Rust       |
