@@ -16,5 +16,5 @@ func main() {
 	r.GET("/", func(c *gin.Context) {
 		c.Data(200, "text/plain", []byte("Hello World!"))
 	})
-	r.Run(":3001")
+	r.Run(":3000")
 }
