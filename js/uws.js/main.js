@@ -1,6 +1,5 @@
 const uWS = require('uWebSockets.js')
-const port = 3000;
 
-const app = uWS.App().get('/*', (res, req) => {
+const _ = uWS.App().get('/*', (res, req) => {
   res.end('Hello World!');
-}).listen(port, (_) => {});
+}).listen(3000, (_) => { });
