@@ -26,3 +26,4 @@ git submodule update --init --recursive
 | [zap](https://zigzap.org/)                                      | Zig        |
 | [std::net](https://doc.rust-lang.org/std/net/index.html)        | Rust       |
 | [actix](https://actix.rs/)                                      | Rust       |
+| [facil.io](https://facil.io/)                                   | C          |

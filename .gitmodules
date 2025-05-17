@@ -1,3 +1,6 @@
 [submodule "cpp/uws/uWebSockets"]
 	path = cpp/uws/uWebSockets
 	url = git@github.com:uNetworking/uWebSockets.git
+[submodule "c/facil.io/facil.io"]
+	path = c/facil.io/facil.io
+	url = git@github.com:boazsegev/facil.io.git
