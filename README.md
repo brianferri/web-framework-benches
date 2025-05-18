@@ -27,3 +27,4 @@ git submodule update --init --recursive
 | [std::net](https://doc.rust-lang.org/std/net/index.html)        | Rust       |
 | [actix](https://actix.rs/)                                      | Rust       |
 | [facil.io](https://facil.io/)                                   | C          |
+| [glibc](https://sourceware.org/git/glibc.git)                   | C          |
