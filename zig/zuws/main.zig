@@ -3,8 +3,7 @@ const App = zuws.App;
 const Request = zuws.Request;
 const Response = zuws.Response;
 
-fn handle_client(res: *Response, req: *Request) void {
-    _ = req;
+fn handle_client(res: *Response, _: *Request) void {
     res.end("Hello World!\n", false);
 }
 
