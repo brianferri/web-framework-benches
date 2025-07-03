@@ -29,3 +29,4 @@ git submodule update --init --recursive
 | [actix](https://actix.rs/)                                         | Rust       |
 | [facil.io](https://facil.io/)                                      | C          |
 | [glibc](https://sourceware.org/git/glibc.git)                      | C          |
+| [FastAPI](https://fastapi.tiangolo.com/)                           | Python     |
