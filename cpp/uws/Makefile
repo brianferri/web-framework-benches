@@ -1,4 +1,4 @@
-GXX = g++
+GXX = g++ -std=c++2b
 
 default:
 	mkdir -p "$(shell pwd)/include"
